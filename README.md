@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Docker CI](https://github.com/coturn/coturn/actions/workflows/docker.yml/badge.svg  "Docker CI")](https://github.com/coturn/coturn/actions/workflows/docker.yml)
 [![Docker Hub](https://img.shields.io/docker/pulls/coturn/coturn?label=Docker%20Hub%20pulls "Docker Hub pulls")](https://hub.docker.com/r/coturn/coturn)
 
@@ -162,3 +163,6 @@ To achieve high performance and scalability, the TURN server is implemented with
 - Repository: https://github.com/coturn/coturn/
 - Issue tracker: https://github.com/coturn/coturn/issues
 - Google group: https://groups.google.com/forum/#!forum/turn-server-project-rfc5766-turn-server
+=======
+# Static-Code-Analysis
+>>>>>>> ef177e6b2754a655aa6692cb9fff32f510f76721
